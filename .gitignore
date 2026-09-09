@@ -1,0 +1,9 @@
+/golx
+/golx.exe
+*.exe
+*.test
+/data/
+.idea/
+.vscode/
+*.swp
+*.orig
